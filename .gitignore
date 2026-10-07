@@ -1,0 +1,3 @@
+vpn-manager
+src/embedded_data.h
+*.o
